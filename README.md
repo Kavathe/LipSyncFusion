@@ -23,7 +23,7 @@ LipSyncFusion is an end-to-end lip-sync solution that combines the power of the 
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/SohamBorkar/LipSyncFusion.git
+git clone https://github.com/Kavathe/LipSyncFusion
 cd LipSyncFusion
 ```
 
@@ -107,8 +107,4 @@ The generated results are stored in the `/outputs` folder. You can download them
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)
 - [ElevenLabs TTS](https://elevenlabs.io/)
 - Internship Assignment for Lip Sync Model Implementation
-
-## Contact
-
-For questions or issues, please open an issue in the repository or contact sohamborkar14@gmail.com.
 
